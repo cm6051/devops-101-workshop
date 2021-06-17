@@ -1,1 +1,1 @@
-FROM cm6051.jfrog.io/devops101-docker/ubuntu:16.04
+FROM cm6051.jfrog.io/devops101-docker/ubuntu:18.04
